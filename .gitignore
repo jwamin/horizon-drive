@@ -1,2 +1,9 @@
+# build output
 /target
+# test pictures and self-test results made while checking the game
 /shots
+# editor and OS clutter
+.DS_Store
+*.swp
+.idea/
+.vscode/
